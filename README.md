@@ -3,7 +3,7 @@
 # Introduction
 As computer engineering students, it's natural for us to explore the field of data science. When considering career options, salary often plays a significant role in our decision-making process. To make an informed decision, we will analyze the salary prospects in the field of data science.
 
-#Analytic objective
+# Analytic objective
 Our main objective is to focus on analyze. The purpose of our analysis is to examine different factors and their relationships to predict salary outcomes in the data science field. By exploring current salary trends, we aim to establish a basis for further research on how variables like experience level, employment type, company size, and geographical location can impact salary levels in this dynamic profession.
 
 # Data description and preparation
