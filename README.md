@@ -1,4 +1,4 @@
-# Data-Models - Data Scince Salaries
+# Data-Models - Data Science Salaries
 
 # Introduction
 As computer engineering students, it's natural for us to explore the field of data science. When considering career options, salary often plays a significant role in our decision-making process. To make an informed decision, we will analyze the salary prospects in the field of data science.
